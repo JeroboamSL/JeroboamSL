@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner1.png" width="100%">
+</p>
+
 <h1 align="center">Hi 👋 I'm Jeroboam</h1>
 
 <p align="center">
